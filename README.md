@@ -2,7 +2,7 @@
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
+  <img src="https://github.com/olare2022/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
            alt="HolbertonBnB logo">
 	   </p>
 
@@ -28,7 +28,7 @@
 
 		      ---
 
-		      ## NOTE TO 2019 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
+		      ## NOTE TO 2022 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
 
 		      This web app has been the capstone project of my full-stack education at
 		      Holberton School and I want to show it off as a demonstration of all the
